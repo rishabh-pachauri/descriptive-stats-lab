@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/descriptive-stats-lab/",
+  "homepage": "https://rishabh-pachauri.github.io/descriptive-stats-lab/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
